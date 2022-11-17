@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+###
 # Defining varaibles 
 # - $N_TS is the total number of sequences
 # - $L_TS is the total length of the sequences
